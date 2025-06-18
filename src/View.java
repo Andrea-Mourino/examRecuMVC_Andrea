@@ -5,10 +5,9 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class View {
 
-    public static void main(String[] args) {
-
+    public static void menu() {
         Scanner teclado = new Scanner(System.in);
         boolean continuar = true;
 
