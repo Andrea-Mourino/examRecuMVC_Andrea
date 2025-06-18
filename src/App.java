@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        // Controller.inicioC();
+        //Modifique la View para llamar al Main -> Menu
         View.menu();
     }
 }

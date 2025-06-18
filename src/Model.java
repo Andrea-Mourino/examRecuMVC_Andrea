@@ -1,6 +1,6 @@
 public class Model {
 
-    public static double sumarNumerosM(double numero1, double numero2) {
+    public static double sumarNumerosM(double numero1, double numero2) { //La M es de Model, para no confundirme
         return numero1 + numero2;
     }
 

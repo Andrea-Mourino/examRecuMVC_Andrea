@@ -1,6 +1,6 @@
 public class Controller {
 
-    public static double sumaC(double numero1, double numero2) {
+    public static double sumaC(double numero1, double numero2) { //La C es de Controller, para no confundirme
         return Model.sumarNumerosM(numero1, numero2);
     }
 
