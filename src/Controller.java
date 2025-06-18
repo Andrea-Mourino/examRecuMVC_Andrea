@@ -1,19 +1,19 @@
 public class Controller {
 
-    public static int sumaC(int suma) {
-        return Model.sumarNumeros(suma);
+    public static double sumaC(double numero1, double numero2) {
+        return Model.sumarNumerosM(numero1, numero2);
     }
 
-    public static int restarC(int resta) {
-        return Model.restarNumeros(resta);
+    public static double restarC(double numero1, double numero2) {
+        return Model.restarNumerosM(numero1, numero2);
     }
 
-    public static int multiplicacionC(int multiplicacion) {
-        return Model.multiplicarNumeros(multiplicacion);
+    public static double multiplicacionC(double numero1, double numero2) {
+        return Model.multiplicarNumerosM(numero1, numero2);
     }
 
-    public static int divisionC(int division) {
-        return Model.dividirNumeros(division);
+    public static double divisionC(double numero1, double numero2) {
+        return Model.dividirNumerosM(numero1, numero2);
     }
 
 }
