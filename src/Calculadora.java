@@ -11,8 +11,8 @@ public class Calculadora {
         this.resta = resta;
         this.multiplicacion = multiplicacion;
         this.division = division;
-        this.numero1= 0;
-        this.numero2= 0;
+        this.numero1= 0.0;
+        this.numero2= 0.0;
 
 
     }
